@@ -16,6 +16,7 @@ li{
 h2{
     border-left: 5px solid red;
     border-bottom: 5px solid red;
+    font-size: 20px;
 }
 img{
     border: 5px solid pink;
