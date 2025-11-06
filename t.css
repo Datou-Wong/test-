@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: blue;
+}
+.indent{
+    text-indent: 2em;
+}
+li{
+    line-height: 2;
+}
+h2{
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+}
+img{
+    border: 5px solid pink;
+    height: 100px;
+}
